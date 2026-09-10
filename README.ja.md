@@ -10,25 +10,17 @@
 
 ## サンプル展示
 
-以下のサンプルはそれぞれ異なる原画像を使い、Panel 155 が一枚ずつ独立した一回の生成で作成しました。AIメタデータは削除済みです。横長は左に実写、右にデザインを置く厳密な50:50、縦長は上に実写、下にデザインを置く厳密な50:50です。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-作例の限界：複数の結果は主題が大きい建築外観の淡彩に寄り、一点透視の室内再構成と微小な主題の要件を完全には満たしません。計算資源節約のため一回生成の結果を残していますが、完全準拠の見本ではありません。実行時の判定は厳格に行います。
-
-**16:9 横長 · 左右 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 縦長 · 上下 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-サンプルには各原写真に即した、短く工夫された英語のコピーを使っています。
 
 ## 向いている場面と解決する課題
 

@@ -10,25 +10,17 @@
 
 ## 샘플 작품
 
-아래 샘플은 서로 다른 원본 참고 이미지를 사용했습니다. Panel 155이 각 이미지를 독립적으로 한 번만 생성했으며 AI 메타데이터도 제거했습니다. 가로 샘플은 왼쪽 원본·오른쪽 디자인의 정확한 50:50, 세로 샘플은 위 원본·아래 디자인의 정확한 50:50입니다.
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-예시의 한계: 여러 결과가 피사체가 큰 건축 외관 담채에 치우쳐 1점 투시 실내 재구성과 작은 중심 요건을 완전히 충족하지 못합니다. 연산 절약을 위해 단일 생성 결과를 보존했으며 완전 준수 기준작은 아닙니다. 실행 시 엄격하게 검수합니다.
-
-**16:9 가로 · 좌우 50:50**
-
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 세로 · 상하 50:50**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-샘플은 각 원본 사진에 맞춘 짧고 영리한 영어 문구를 사용합니다.
 
 ## 잘 맞는 상황과 해결하는 문제
 
