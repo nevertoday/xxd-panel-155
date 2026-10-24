@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 155｜One-point Perspective Light Wash: redraws the key structure of a photo as a one-point-perspective interior or architectural hand rendering — fine, restrained pen line work for walls, furniture, doors, windows, plants and the main subject, then a very pale, transparent watercolour wash in 2–4 softened colours from the photo (off-white, light grey, wood, pale green, gentle warm tones) — kept small within a large quiet whitespace, with a few small titles, notes or numbers. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-155 or asks for interior line-and-wash, architectural sketch or one-point perspective drawing from a photo.",
+  "short_description": "一点透视淡彩志：把照片画成一点透视的钢笔线稿室内效果图，再铺一层极淡的水彩",
+  "zh-CN": {
+    "name": "一点透视淡彩志",
+    "tagline": "把照片画成一张一点透视的钢笔线稿，再轻轻铺一层极淡的水彩。",
+    "look": "画面像室内设计师的手绘效果图：用细而克制的钢笔线勾出一点透视的空间结构，墙、门窗、家具、植物和主体都画得清楚，再用很浅、很透的淡彩轻轻铺色。颜色从照片取 2–4 种，以米白、浅灰、木色、浅绿和柔和暖色为底，清新安静。图只占一小块，周围是大片留白。留白里放少量标题、注释或编号。",
+    "traits": [
+      "一点透视",
+      "钢笔线稿",
+      "极淡水彩",
+      "室内效果图",
+      "大面积留白"
+    ],
+    "good": [
+      "有纵深的室内照片：客厅、卧室、咖啡馆、书店、走廊",
+      "能看出透视线的建筑和街道：长廊、巷子、拱门、站台",
+      "空间里有一个焦点的场景：窗边的一把椅子、一张书桌、一盆绿植"
+    ],
+    "poor": [
+      "没有空间感的平面特写：大头照、单个物件贴脸拍、纯色背景人像",
+      "颜色浓烈、想保留强对比的照片，会被调成很淡的水彩",
+      "想要卡通、厚涂水彩、写实渲染或 3D 效果图的需求"
+    ]
+  },
+  "en": {
+    "name": "One-point Perspective Light Wash",
+    "tagline": "Draws your photo as a one-point-perspective pen sketch with a very pale watercolour wash.",
+    "look": "The result looks like an interior designer's hand rendering: fine, restrained pen lines set out a one-point-perspective space, with walls, doors, windows, furniture, plants and the main subject drawn clearly, then a very light, transparent wash of colour laid over them. Two to four colours from the photo sit on a base of off-white, light grey, wood, pale green and soft warm tones, fresh and quiet. The drawing fills only a small part of the page, surrounded by white space. A few small titles, notes or numbers sit in that space.",
+    "traits": [
+      "One-point perspective",
+      "Pen line work",
+      "Pale watercolour",
+      "Interior rendering",
+      "Generous whitespace"
+    ],
+    "good": [
+      "Interior photos with depth: a living room, a bedroom, a café, a bookshop, a corridor",
+      "Buildings and streets with visible perspective lines: an arcade, an alley, an archway, a station platform",
+      "Spaces with one focal point: a chair by a window, a desk, a potted plant"
+    ],
+    "poor": [
+      "Flat close-ups with no sense of space: headshots, a single object shot up close, portraits on plain backdrops",
+      "Strongly coloured, high-contrast photos, which are softened into a very pale wash",
+      "Requests for cartoons, heavy watercolour, realistic renders or 3D visualisation"
+    ]
+  },
+  "ja": {
+    "name": "一点透視の淡彩",
+    "tagline": "写真を一点透視のペン線画にして、ごく淡い水彩をそっと重ねます。",
+    "look": "インテリアデザイナーの手描きパースのような仕上がりです。細く控えめなペンの線で一点透視の空間を描き、壁、扉や窓、家具、植物、主役をはっきり描いたうえで、ごく淡く透明な色をそっと重ねます。色は写真から二〜四色、生成り、薄いグレー、木の色、淡い緑、やわらかな暖色を基調に、すがすがしく静かにまとめます。絵は画面の一部だけを占め、まわりは広い余白です。余白には小さなタイトル、注記、番号が少しだけ入ります。",
+    "traits": [
+      "一点透視",
+      "ペンの線画",
+      "ごく淡い水彩",
+      "インテリアパース",
+      "広い余白"
+    ],
+    "good": [
+      "奥行きのある室内写真：リビング、寝室、カフェ、書店、廊下",
+      "透視線が見える建物や通り：回廊、路地、アーチ、駅のホーム",
+      "空間に焦点がひとつある場面：窓辺の椅子、机、鉢植え"
+    ],
+    "poor": [
+      "空間の奥行きがない平面的なアップ：顔写真、物の接写、無地背景の人物",
+      "色が濃くコントラストを残したい写真（ごく淡い水彩に変わります）",
+      "アニメ調、厚塗り水彩、写実レンダリング、3D パースを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "1점 투시 담채",
+    "tagline": "사진을 1점 투시 펜 선화로 그리고 아주 옅은 수채를 살짝 입힙니다.",
+    "look": "인테리어 디자이너가 손으로 그린 투시도처럼 보입니다. 가늘고 절제된 펜 선으로 1점 투시 공간을 잡고 벽, 문과 창, 가구, 식물, 주인공을 또렷하게 그린 뒤, 아주 옅고 투명한 색을 가볍게 얹습니다. 색은 사진에서 두세 가지, 많게는 네 가지를 골라 미색, 연회색, 나무색, 연초록, 부드러운 따뜻한 색을 바탕으로 산뜻하고 조용하게 정리합니다. 그림은 화면의 일부만 차지하고 주변은 넓은 여백입니다. 여백에는 작은 제목, 주석, 번호가 조금 들어갑니다.",
+    "traits": [
+      "1점 투시",
+      "펜 선화",
+      "아주 옅은 수채",
+      "인테리어 투시도",
+      "넓은 여백"
+    ],
+    "good": [
+      "깊이감 있는 실내 사진: 거실, 침실, 카페, 서점, 복도",
+      "투시선이 보이는 건물과 거리: 회랑, 골목, 아치, 기차역 승강장",
+      "공간 안에 초점이 하나 있는 장면: 창가 의자, 책상, 화분"
+    ],
+    "poor": [
+      "공간감 없는 평면 클로즈업: 얼굴 사진, 물건 접사, 단색 배경 인물",
+      "색이 진하고 강한 대비를 살리고 싶은 사진(아주 옅은 수채로 바뀝니다)",
+      "만화풍, 두꺼운 수채, 사실적 렌더링, 3D 투시도를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "منظور النقطة الواحدة بألوان مخففة",
+    "tagline": "يرسم صورتك بخطوط قلم بمنظور النقطة الواحدة، مع غسلة ألوان مائية باهتة جداً.",
+    "look": "تبدو النتيجة كرسم يدوي لمصمم داخلي: خطوط قلم رفيعة ومتحفظة تبني فضاءً بمنظور النقطة الواحدة، فتظهر الجدران والأبواب والنوافذ والأثاث والنباتات والعنصر الرئيسي بوضوح، ثم تُمدّ فوقها غسلة لونية خفيفة وشفافة جداً. تُؤخذ من الصورة لونان إلى أربعة ألوان على أساس من الأبيض المصفرّ والرمادي الفاتح ولون الخشب والأخضر الباهت والألوان الدافئة الناعمة، بطابع منعش وهادئ. لا يشغل الرسم إلا جزءاً صغيراً من الصفحة، وحوله مساحة بيضاء واسعة. وفيها عناوين أو ملاحظات أو أرقام صغيرة قليلة.",
+    "traits": [
+      "منظور النقطة الواحدة",
+      "رسم بالقلم",
+      "ألوان مائية باهتة",
+      "رسم داخلي",
+      "فراغ واسع"
+    ],
+    "good": [
+      "صور داخلية فيها عمق: غرفة معيشة، غرفة نوم، مقهى، مكتبة، ممر",
+      "مبانٍ وشوارع تظهر فيها خطوط المنظور: رواق، زقاق، قوس، رصيف محطة",
+      "أماكن فيها نقطة تركيز واحدة: كرسي قرب نافذة، مكتب، نبتة في أصيص"
+    ],
+    "poor": [
+      "لقطات قريبة مسطّحة بلا إحساس بالمكان: صور الوجه، شيء واحد عن قرب، صور شخصية على خلفية سادة",
+      "صور ذات ألوان قوية وتباين حاد، إذ تُخفَّف إلى غسلة باهتة جداً",
+      "طلب رسوم كرتونية أو ألوان مائية كثيفة أو تصيير واقعي أو تصور ثلاثي الأبعاد"
+    ]
+  }
+}
